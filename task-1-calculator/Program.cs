@@ -17,30 +17,49 @@ namespace task_1_calculator
                 Console.Write("Ваш резуьтат: ");
                 switch(operatop) {
                     case "+":
-                        Console.WriteLine(a + b);
+                        Add(a, b);
                         break;
                     case "*":
-                        Console.WriteLine(a * b);
+                        Multiply(a, b);
                         break;
                     case "**":
-                        Console.WriteLine(Math.Pow(a, b));
+                        Power(a, b);
                         break;
                     case "-":
-                        Console.WriteLine(a - b);
+                        Subtract(a, b);
                         break;
                     case "/":
-                        if (b == 0) {
-                            Console.WriteLine("Бесконечность");
-                            continue;
-                        } 
-                        Console.WriteLine(a / b);
+                        Divide(a, b);
                         break;
                     default: 
                         Console.WriteLine("Неверный оператор");
-
+                        break;
                 }
-                Console.Write("============");
+                Console.WriteLine("============");
             }
+        }
+
+        static double Add(double x, double y) { 
+            return x + y;
+        }
+
+        static double Subtract(double x, double y) { 
+            return x - y;
+        }
+
+        static double Multiply(double x, double y) {
+            return x * y;
+        }
+
+        static double Divide(double x, double y) {
+            if (y == 0) {
+                Console.Write("Ошибка! Деление на ноль! ");
+                return Double.MaxValue;
+            }
+            return x / y;
+        }
+        static double Power(double x, double power) {
+            return Math.Pow(x, power);
         }
     }
 }
