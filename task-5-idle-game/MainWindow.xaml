@@ -1,0 +1,27 @@
+﻿<Window x:Class="task_5_idle_game.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:task_5_idle_game"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="325" Width="372" Background="{x:Null}" MinWidth="800" MinHeight="600" HorizontalAlignment="Left" VerticalAlignment="Top">
+    <Grid Background="#FF212121">
+        <ListBox HorizontalAlignment="Left" Margin="230,10,0,0" VerticalAlignment="Top" SelectionChanged="ListBox_SelectionChanged" Background="#FF333333" BorderBrush="{x:Null}">
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Магазин" VerticalAlignment="Top" Foreground="White" FontWeight="Bold"/>
+            <Button Content="Курсор" HorizontalAlignment="Left" VerticalAlignment="Top" Width="140" BorderBrush="{x:Null}" Foreground="White" Background="#FF444444" Click="Button_Click_3"/>
+            <Button Content="Фабрика" HorizontalAlignment="Left" VerticalAlignment="Top" Width="140" BorderBrush="{x:Null}" Foreground="White" Background="#FF444444"/>
+            <Button Content="Шахта" HorizontalAlignment="Left" VerticalAlignment="Top" Width="140" BorderBrush="{x:Null}" Foreground="White" Background="#FF444444"/>
+            <Button Content="Ферма" HorizontalAlignment="Left" VerticalAlignment="Top" Width="140" BorderBrush="{x:Null}" Foreground="White" Background="#FF444444"/>
+            <Button Content="Бабушка" HorizontalAlignment="Left" VerticalAlignment="Top" Width="140" BorderBrush="{x:Null}" Foreground="White" Background="#FF444444"/>
+        </ListBox>
+        <ListBox HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" SelectionChanged="ListBox_SelectionChanged" Background="#FF333333" BorderBrush="{x:Null}">
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Foreground="White"/>
+            <Button Content="Click" HorizontalAlignment="Left" Height="243" Margin="0" VerticalAlignment="Top" Width="201" Click="Button_Click_2" BorderBrush="{x:Null}" Foreground="White" Background="#FF444444"/>
+        </ListBox>
+        <ListBox HorizontalAlignment="Left" Margin="230,159,0,0" VerticalAlignment="Top" SelectionChanged="ListBox_SelectionChanged" Background="#FF333333" BorderBrush="{x:Null}">
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Достижения" VerticalAlignment="Top" Foreground="White" FontWeight="Bold"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="У вас пока нет достижений" VerticalAlignment="Top" Foreground="White" Width="140" TextAlignment="Center"/>
+        </ListBox>
+    </Grid>
+</Window>

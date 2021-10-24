@@ -1,0 +1,16 @@
+C:\Users\Сергей\Desktop\лабы\task-2-time-converter\obj\Debug\net5.0\task-2-time-converter.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\лабы\task-2-time-converter\obj\Debug\net5.0\task-2-time-converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\лабы\task-2-time-converter\obj\Debug\net5.0\task-2-time-converter.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\лабы\task-2-time-converter\obj\Debug\net5.0\task-2-time-converter.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\лабы\task-2-time-converter\obj\Debug\net5.0\task-2-time-converter.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\лабы\task-2-time-converter\bin\Debug\net5.0\task-2-time-converter.exe
+C:\Users\Сергей\Desktop\лабы\task-2-time-converter\bin\Debug\net5.0\task-2-time-converter.deps.json
+C:\Users\Сергей\Desktop\лабы\task-2-time-converter\bin\Debug\net5.0\task-2-time-converter.runtimeconfig.json
+C:\Users\Сергей\Desktop\лабы\task-2-time-converter\bin\Debug\net5.0\task-2-time-converter.runtimeconfig.dev.json
+C:\Users\Сергей\Desktop\лабы\task-2-time-converter\bin\Debug\net5.0\task-2-time-converter.dll
+C:\Users\Сергей\Desktop\лабы\task-2-time-converter\bin\Debug\net5.0\ref\task-2-time-converter.dll
+C:\Users\Сергей\Desktop\лабы\task-2-time-converter\bin\Debug\net5.0\task-2-time-converter.pdb
+C:\Users\Сергей\Desktop\лабы\task-2-time-converter\obj\Debug\net5.0\task-2-time-converter.dll
+C:\Users\Сергей\Desktop\лабы\task-2-time-converter\obj\Debug\net5.0\ref\task-2-time-converter.dll
+C:\Users\Сергей\Desktop\лабы\task-2-time-converter\obj\Debug\net5.0\task-2-time-converter.pdb
+C:\Users\Сергей\Desktop\лабы\task-2-time-converter\obj\Debug\net5.0\task-2-time-converter.genruntimeconfig.cache

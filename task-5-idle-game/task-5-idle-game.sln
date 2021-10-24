@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task-5-idle-game", "task-5-idle-game.csproj", "{ED3F36AB-25CF-471B-8D13-4A3DA5F84494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED3F36AB-25CF-471B-8D13-4A3DA5F84494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3F36AB-25CF-471B-8D13-4A3DA5F84494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3F36AB-25CF-471B-8D13-4A3DA5F84494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3F36AB-25CF-471B-8D13-4A3DA5F84494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDF17969-84C8-4BB0-BB85-1C4EC2724621}
+	EndGlobalSection
+EndGlobal

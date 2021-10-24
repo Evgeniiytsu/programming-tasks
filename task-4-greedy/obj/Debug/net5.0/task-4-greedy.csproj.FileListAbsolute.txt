@@ -1,0 +1,16 @@
+C:\Users\Сергей\Desktop\лабы\task-4-greedy\obj\Debug\net5.0\task-4-greedy.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\лабы\task-4-greedy\obj\Debug\net5.0\task-4-greedy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\лабы\task-4-greedy\obj\Debug\net5.0\task-4-greedy.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\лабы\task-4-greedy\obj\Debug\net5.0\task-4-greedy.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\лабы\task-4-greedy\obj\Debug\net5.0\task-4-greedy.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\лабы\task-4-greedy\bin\Debug\net5.0\task-4-greedy.exe
+C:\Users\Сергей\Desktop\лабы\task-4-greedy\bin\Debug\net5.0\task-4-greedy.deps.json
+C:\Users\Сергей\Desktop\лабы\task-4-greedy\bin\Debug\net5.0\task-4-greedy.runtimeconfig.json
+C:\Users\Сергей\Desktop\лабы\task-4-greedy\bin\Debug\net5.0\task-4-greedy.runtimeconfig.dev.json
+C:\Users\Сергей\Desktop\лабы\task-4-greedy\bin\Debug\net5.0\task-4-greedy.dll
+C:\Users\Сергей\Desktop\лабы\task-4-greedy\bin\Debug\net5.0\ref\task-4-greedy.dll
+C:\Users\Сергей\Desktop\лабы\task-4-greedy\bin\Debug\net5.0\task-4-greedy.pdb
+C:\Users\Сергей\Desktop\лабы\task-4-greedy\obj\Debug\net5.0\task-4-greedy.dll
+C:\Users\Сергей\Desktop\лабы\task-4-greedy\obj\Debug\net5.0\ref\task-4-greedy.dll
+C:\Users\Сергей\Desktop\лабы\task-4-greedy\obj\Debug\net5.0\task-4-greedy.pdb
+C:\Users\Сергей\Desktop\лабы\task-4-greedy\obj\Debug\net5.0\task-4-greedy.genruntimeconfig.cache

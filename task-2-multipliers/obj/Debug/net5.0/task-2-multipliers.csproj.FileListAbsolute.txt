@@ -1,0 +1,16 @@
+C:\Users\Сергей\Desktop\лабы\task-2-multipliers\bin\Debug\net5.0\task-2-multipliers.exe
+C:\Users\Сергей\Desktop\лабы\task-2-multipliers\bin\Debug\net5.0\task-2-multipliers.deps.json
+C:\Users\Сергей\Desktop\лабы\task-2-multipliers\bin\Debug\net5.0\task-2-multipliers.runtimeconfig.json
+C:\Users\Сергей\Desktop\лабы\task-2-multipliers\bin\Debug\net5.0\task-2-multipliers.runtimeconfig.dev.json
+C:\Users\Сергей\Desktop\лабы\task-2-multipliers\bin\Debug\net5.0\task-2-multipliers.dll
+C:\Users\Сергей\Desktop\лабы\task-2-multipliers\bin\Debug\net5.0\ref\task-2-multipliers.dll
+C:\Users\Сергей\Desktop\лабы\task-2-multipliers\bin\Debug\net5.0\task-2-multipliers.pdb
+C:\Users\Сергей\Desktop\лабы\task-2-multipliers\obj\Debug\net5.0\task-2-multipliers.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\лабы\task-2-multipliers\obj\Debug\net5.0\task-2-multipliers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\лабы\task-2-multipliers\obj\Debug\net5.0\task-2-multipliers.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\лабы\task-2-multipliers\obj\Debug\net5.0\task-2-multipliers.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\лабы\task-2-multipliers\obj\Debug\net5.0\task-2-multipliers.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\лабы\task-2-multipliers\obj\Debug\net5.0\task-2-multipliers.dll
+C:\Users\Сергей\Desktop\лабы\task-2-multipliers\obj\Debug\net5.0\ref\task-2-multipliers.dll
+C:\Users\Сергей\Desktop\лабы\task-2-multipliers\obj\Debug\net5.0\task-2-multipliers.pdb
+C:\Users\Сергей\Desktop\лабы\task-2-multipliers\obj\Debug\net5.0\task-2-multipliers.genruntimeconfig.cache

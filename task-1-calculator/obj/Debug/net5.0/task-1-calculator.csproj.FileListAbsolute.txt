@@ -1,0 +1,16 @@
+C:\Users\Сергей\Desktop\лабы\task-1-calculator\obj\Debug\net5.0\task-1-calculator.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\лабы\task-1-calculator\obj\Debug\net5.0\task-1-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\лабы\task-1-calculator\obj\Debug\net5.0\task-1-calculator.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\лабы\task-1-calculator\obj\Debug\net5.0\task-1-calculator.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\лабы\task-1-calculator\obj\Debug\net5.0\task-1-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\лабы\task-1-calculator\bin\Debug\net5.0\task-1-calculator.exe
+C:\Users\Сергей\Desktop\лабы\task-1-calculator\bin\Debug\net5.0\task-1-calculator.deps.json
+C:\Users\Сергей\Desktop\лабы\task-1-calculator\bin\Debug\net5.0\task-1-calculator.runtimeconfig.json
+C:\Users\Сергей\Desktop\лабы\task-1-calculator\bin\Debug\net5.0\task-1-calculator.runtimeconfig.dev.json
+C:\Users\Сергей\Desktop\лабы\task-1-calculator\bin\Debug\net5.0\task-1-calculator.dll
+C:\Users\Сергей\Desktop\лабы\task-1-calculator\bin\Debug\net5.0\ref\task-1-calculator.dll
+C:\Users\Сергей\Desktop\лабы\task-1-calculator\bin\Debug\net5.0\task-1-calculator.pdb
+C:\Users\Сергей\Desktop\лабы\task-1-calculator\obj\Debug\net5.0\task-1-calculator.dll
+C:\Users\Сергей\Desktop\лабы\task-1-calculator\obj\Debug\net5.0\ref\task-1-calculator.dll
+C:\Users\Сергей\Desktop\лабы\task-1-calculator\obj\Debug\net5.0\task-1-calculator.pdb
+C:\Users\Сергей\Desktop\лабы\task-1-calculator\obj\Debug\net5.0\task-1-calculator.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Сергей\Desktop\лабы\task-6-monty-hall-problem\obj\Debug\net5.0\task-6-monty-hall-problem.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\лабы\task-6-monty-hall-problem\obj\Debug\net5.0\task-6-monty-hall-problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\лабы\task-6-monty-hall-problem\obj\Debug\net5.0\task-6-monty-hall-problem.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\лабы\task-6-monty-hall-problem\obj\Debug\net5.0\task-6-monty-hall-problem.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\лабы\task-6-monty-hall-problem\obj\Debug\net5.0\task-6-monty-hall-problem.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\лабы\task-6-monty-hall-problem\bin\Debug\net5.0\task-6-monty-hall-problem.exe
+C:\Users\Сергей\Desktop\лабы\task-6-monty-hall-problem\bin\Debug\net5.0\task-6-monty-hall-problem.deps.json
+C:\Users\Сергей\Desktop\лабы\task-6-monty-hall-problem\bin\Debug\net5.0\task-6-monty-hall-problem.runtimeconfig.json
+C:\Users\Сергей\Desktop\лабы\task-6-monty-hall-problem\bin\Debug\net5.0\task-6-monty-hall-problem.runtimeconfig.dev.json
+C:\Users\Сергей\Desktop\лабы\task-6-monty-hall-problem\bin\Debug\net5.0\task-6-monty-hall-problem.dll
+C:\Users\Сергей\Desktop\лабы\task-6-monty-hall-problem\bin\Debug\net5.0\ref\task-6-monty-hall-problem.dll
+C:\Users\Сергей\Desktop\лабы\task-6-monty-hall-problem\bin\Debug\net5.0\task-6-monty-hall-problem.pdb
+C:\Users\Сергей\Desktop\лабы\task-6-monty-hall-problem\obj\Debug\net5.0\task-6-monty-hall-problem.dll
+C:\Users\Сергей\Desktop\лабы\task-6-monty-hall-problem\obj\Debug\net5.0\ref\task-6-monty-hall-problem.dll
+C:\Users\Сергей\Desktop\лабы\task-6-monty-hall-problem\obj\Debug\net5.0\task-6-monty-hall-problem.pdb
+C:\Users\Сергей\Desktop\лабы\task-6-monty-hall-problem\obj\Debug\net5.0\task-6-monty-hall-problem.genruntimeconfig.cache

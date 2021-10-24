@@ -1,0 +1,16 @@
+C:\Users\Сергей\Desktop\лабы\task-3-job-assigner\bin\Debug\net5.0\task-3-job-assigner.exe
+C:\Users\Сергей\Desktop\лабы\task-3-job-assigner\bin\Debug\net5.0\task-3-job-assigner.deps.json
+C:\Users\Сергей\Desktop\лабы\task-3-job-assigner\bin\Debug\net5.0\task-3-job-assigner.runtimeconfig.json
+C:\Users\Сергей\Desktop\лабы\task-3-job-assigner\bin\Debug\net5.0\task-3-job-assigner.runtimeconfig.dev.json
+C:\Users\Сергей\Desktop\лабы\task-3-job-assigner\bin\Debug\net5.0\task-3-job-assigner.dll
+C:\Users\Сергей\Desktop\лабы\task-3-job-assigner\bin\Debug\net5.0\ref\task-3-job-assigner.dll
+C:\Users\Сергей\Desktop\лабы\task-3-job-assigner\bin\Debug\net5.0\task-3-job-assigner.pdb
+C:\Users\Сергей\Desktop\лабы\task-3-job-assigner\obj\Debug\net5.0\task-3-job-assigner.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\лабы\task-3-job-assigner\obj\Debug\net5.0\task-3-job-assigner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\лабы\task-3-job-assigner\obj\Debug\net5.0\task-3-job-assigner.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\лабы\task-3-job-assigner\obj\Debug\net5.0\task-3-job-assigner.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\лабы\task-3-job-assigner\obj\Debug\net5.0\task-3-job-assigner.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\лабы\task-3-job-assigner\obj\Debug\net5.0\task-3-job-assigner.dll
+C:\Users\Сергей\Desktop\лабы\task-3-job-assigner\obj\Debug\net5.0\ref\task-3-job-assigner.dll
+C:\Users\Сергей\Desktop\лабы\task-3-job-assigner\obj\Debug\net5.0\task-3-job-assigner.pdb
+C:\Users\Сергей\Desktop\лабы\task-3-job-assigner\obj\Debug\net5.0\task-3-job-assigner.genruntimeconfig.cache

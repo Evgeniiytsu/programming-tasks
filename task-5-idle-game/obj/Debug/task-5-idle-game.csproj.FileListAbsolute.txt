@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\лабы\task-5-idle-game\bin\Debug\task-5-idle-game.exe.config
+C:\Users\Сергей\Desktop\лабы\task-5-idle-game\bin\Debug\task-5-idle-game.exe
+C:\Users\Сергей\Desktop\лабы\task-5-idle-game\bin\Debug\task-5-idle-game.pdb
+C:\Users\Сергей\Desktop\лабы\task-5-idle-game\obj\Debug\task-5-idle-game.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\лабы\task-5-idle-game\obj\Debug\MainWindow.g.cs
+C:\Users\Сергей\Desktop\лабы\task-5-idle-game\obj\Debug\App.g.cs
+C:\Users\Сергей\Desktop\лабы\task-5-idle-game\obj\Debug\task-5-idle-game_MarkupCompile.cache
+C:\Users\Сергей\Desktop\лабы\task-5-idle-game\obj\Debug\task-5-idle-game_MarkupCompile.lref
+C:\Users\Сергей\Desktop\лабы\task-5-idle-game\obj\Debug\MainWindow.baml
+C:\Users\Сергей\Desktop\лабы\task-5-idle-game\obj\Debug\task-5-idle-game.g.resources
+C:\Users\Сергей\Desktop\лабы\task-5-idle-game\obj\Debug\task_5_idle_game.Properties.Resources.resources
+C:\Users\Сергей\Desktop\лабы\task-5-idle-game\obj\Debug\task-5-idle-game.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\лабы\task-5-idle-game\obj\Debug\task-5-idle-game.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\лабы\task-5-idle-game\obj\Debug\task-5-idle-game.exe
+C:\Users\Сергей\Desktop\лабы\task-5-idle-game\obj\Debug\task-5-idle-game.pdb

@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\лабы\task-3-wpf-calculator\bin\Debug\task-3-wpf-calculator.exe.config
+C:\Users\Сергей\Desktop\лабы\task-3-wpf-calculator\bin\Debug\task-3-wpf-calculator.exe
+C:\Users\Сергей\Desktop\лабы\task-3-wpf-calculator\bin\Debug\task-3-wpf-calculator.pdb
+C:\Users\Сергей\Desktop\лабы\task-3-wpf-calculator\obj\Debug\task-3-wpf-calculator.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\лабы\task-3-wpf-calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Сергей\Desktop\лабы\task-3-wpf-calculator\obj\Debug\App.g.cs
+C:\Users\Сергей\Desktop\лабы\task-3-wpf-calculator\obj\Debug\task-3-wpf-calculator_MarkupCompile.cache
+C:\Users\Сергей\Desktop\лабы\task-3-wpf-calculator\obj\Debug\task-3-wpf-calculator_MarkupCompile.lref
+C:\Users\Сергей\Desktop\лабы\task-3-wpf-calculator\obj\Debug\MainWindow.baml
+C:\Users\Сергей\Desktop\лабы\task-3-wpf-calculator\obj\Debug\task-3-wpf-calculator.g.resources
+C:\Users\Сергей\Desktop\лабы\task-3-wpf-calculator\obj\Debug\task_3_wpf_calculator.Properties.Resources.resources
+C:\Users\Сергей\Desktop\лабы\task-3-wpf-calculator\obj\Debug\task-3-wpf-calculator.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\лабы\task-3-wpf-calculator\obj\Debug\task-3-wpf-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\лабы\task-3-wpf-calculator\obj\Debug\task-3-wpf-calculator.exe
+C:\Users\Сергей\Desktop\лабы\task-3-wpf-calculator\obj\Debug\task-3-wpf-calculator.pdb

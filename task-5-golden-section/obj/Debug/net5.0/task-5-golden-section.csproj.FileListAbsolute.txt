@@ -1,0 +1,16 @@
+C:\Users\Сергей\Desktop\лабы\task-5-golden-section\obj\Debug\net5.0\task-5-golden-section.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\лабы\task-5-golden-section\obj\Debug\net5.0\task-5-golden-section.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\лабы\task-5-golden-section\obj\Debug\net5.0\task-5-golden-section.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\лабы\task-5-golden-section\obj\Debug\net5.0\task-5-golden-section.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\лабы\task-5-golden-section\obj\Debug\net5.0\task-5-golden-section.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\лабы\task-5-golden-section\bin\Debug\net5.0\task-5-golden-section.exe
+C:\Users\Сергей\Desktop\лабы\task-5-golden-section\bin\Debug\net5.0\task-5-golden-section.deps.json
+C:\Users\Сергей\Desktop\лабы\task-5-golden-section\bin\Debug\net5.0\task-5-golden-section.runtimeconfig.json
+C:\Users\Сергей\Desktop\лабы\task-5-golden-section\bin\Debug\net5.0\task-5-golden-section.runtimeconfig.dev.json
+C:\Users\Сергей\Desktop\лабы\task-5-golden-section\bin\Debug\net5.0\task-5-golden-section.dll
+C:\Users\Сергей\Desktop\лабы\task-5-golden-section\bin\Debug\net5.0\ref\task-5-golden-section.dll
+C:\Users\Сергей\Desktop\лабы\task-5-golden-section\bin\Debug\net5.0\task-5-golden-section.pdb
+C:\Users\Сергей\Desktop\лабы\task-5-golden-section\obj\Debug\net5.0\task-5-golden-section.dll
+C:\Users\Сергей\Desktop\лабы\task-5-golden-section\obj\Debug\net5.0\ref\task-5-golden-section.dll
+C:\Users\Сергей\Desktop\лабы\task-5-golden-section\obj\Debug\net5.0\task-5-golden-section.pdb
+C:\Users\Сергей\Desktop\лабы\task-5-golden-section\obj\Debug\net5.0\task-5-golden-section.genruntimeconfig.cache
